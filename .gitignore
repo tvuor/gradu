@@ -1,0 +1,7 @@
+### Data
+*.tif
+*.tiff
+*.geojson
+*.pkl
+**/temp
+**/results
