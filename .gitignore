@@ -3,5 +3,6 @@
 *.tiff
 *.geojson
 *.pkl
+.ipynb_checkpoints
 **/temp
 **/results
